@@ -71,6 +71,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanAshraf&layout=compact&hide_border=true" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sufyanAshraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sufyanAshraf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sufyanAshraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyanAshraf&hide_border=true" alt="streak stats" />
 </p>
