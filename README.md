@@ -57,10 +57,10 @@
 
 ### 💼 Featured Projects
 
-- **Customer Support Automation** — RAG + fine-tuned LLaMA 3 (QLoRA) + Pinecone + LangGraph, automating 80%+ of incoming support queries
-- **AI Agent for Sales Managers** — CrewAI + OpenAI, natural language → SQL with auto-generated dashboards
-- **Screen Defect Detection** — TensorFlow + OpenCV pipeline deployed on AWS
-- **Compliance & Verification Automation (Granjur)** — CV/OCR pipelines cutting processing time from 24 hrs → 1.5 min and 48 hrs → 1 min
+- **Customer Support Automation**: RAG + fine-tuned LLaMA 3 (QLoRA) + Pinecone + LangGraph, automating 80%+ of incoming support queries
+- **AI Agent for Sales Managers**: CrewAI + OpenAI, natural language → SQL with auto-generated dashboards
+- **Screen Defect Detection**: TensorFlow + OpenCV pipeline deployed on AWS
+- **Compliance & Verification Automation (Granjur)**: CV/OCR pipelines cutting processing time from 24 hrs → 1.5 min and 48 hrs → 1 min
 
 ---
 
