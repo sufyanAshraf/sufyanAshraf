@@ -55,7 +55,7 @@
 
 ---
 
-### 💼 Featured Projects
+### 💼 Featured Projects (work projects are private)
 
 - **Customer Support Automation**: RAG + fine-tuned LLaMA 3 (QLoRA) + Pinecone + LangGraph, automating 80%+ of incoming support queries
 - **AI Agent for Sales Managers**: CrewAI + OpenAI, natural language → SQL with auto-generated dashboards
