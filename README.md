@@ -64,7 +64,7 @@
 
 ---
 
-![Demo](https://github.com/sufyanAshraf/RAG-Local-Business-Assistant/blob/main/RAG_demo.gif)
+![Demo](https://github.com/sufyanAshraf/RAG-Local-Business-Assistant/blob/main/marketing.gif)
 
 <!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sufyanAshraf&show_icons=true&theme=default&hide_border=true" />
