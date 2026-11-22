@@ -63,7 +63,8 @@
 - **Compliance & Verification Automation (Granjur)**: CV/OCR pipelines cutting processing time from 24 hrs → 1.5 min and 48 hrs → 1 min
 
 ---
-### [Demo Local Business Assistant](https://github.com/sufyanAshraf/RAG-Local-Business-Assistant/tree/main) 
+### Demo
+## [Local Business Assistant](https://github.com/sufyanAshraf/RAG-Local-Business-Assistant/tree/main) 
 ![Demo](https://github.com/sufyanAshraf/RAG-Local-Business-Assistant/blob/main/marketing.gif)
 
 ---
