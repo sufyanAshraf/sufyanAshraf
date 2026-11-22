@@ -25,6 +25,9 @@
 - 💬 Ask me about: RAG pipelines, agent orchestration, model fine-tuning, and CV automation
 
 ---
+![Demo](https://github.com/sufyanAshraf/sufyanAshraf/blob/main/portfolio.gif)
+
+---
 
 ### 🛠️ Tech Stack
 
