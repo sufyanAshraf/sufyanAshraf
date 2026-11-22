@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently the sole AI Engineer at **Falconic Tech**, building agentic AI systems and production LLM pipelines
-- 🧠 Focused on **LangChain, LangGraph, CrewAI**, LLM fine-tuning (QLoRA on LLaMA 3), and model evaluation (LangSmith, TruLens)
+- 🧠 Focused on **LangChain, LangGraph, CrewAI**, LLM fine-tuning (QLoRA on DeepSeek r1), and model evaluation (LangSmith, TruLens)
 - ☁️ Deploying at scale with **AWS Bedrock, Lambda, and SageMaker**
 - 🎓 MSc in Computer Science from Information Technology University (ITU), BSc from University of Central Punjab
 - 🌱 Background spans classical computer vision (OpenCV, Azure AI Vision, OCR) through modern RAG & agentic LLM systems
@@ -60,8 +60,8 @@
 
 ### 💼 Featured Projects (work projects are private)
 
-- **Customer Support Automation**: RAG + fine-tuned LLaMA 3 (QLoRA) + Pinecone + LangGraph, automating 80%+ of incoming support queries
-- **AI Agent for Sales Managers**: CrewAI + OpenAI, natural language → SQL with auto-generated dashboards
+- **Customer Support Automation**: RAG + fine-tuned OpenAi + Pinecone + LangGraph, automating 80%+ of incoming support queries
+- **AI Agent for Sales Managers**: CrewAI + DeepSeek r1, natural language → SQL with auto-generated dashboards
 - **Screen Defect Detection**: TensorFlow + OpenCV pipeline deployed on AWS
 - **Compliance & Verification Automation (Granjur)**: CV/OCR pipelines cutting processing time from 24 hrs → 1.5 min and 48 hrs → 1 min
 
